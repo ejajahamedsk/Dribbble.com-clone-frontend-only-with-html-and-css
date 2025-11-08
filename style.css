@@ -64,7 +64,7 @@ body {
 #nav-left {
   display: flex;
   align-items: center;
-  gap: 51px;
+  gap: 50px;
 }
 #nav-left #logo {
   display: inline-block;
